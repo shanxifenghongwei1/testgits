@@ -4,5 +4,5 @@ let c =  '我来看看能不能打起来'
 let d = '冲突不了aaaaaaa'
 let arr = [1,2,3,4,5]
 arr.map(item=>{
-    item+2
+    item+a
 })
